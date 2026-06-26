@@ -1,9 +1,0 @@
-Olá professor Caio, espero que esteja bem.
-
-- Coloquei esse txt no arquivo para algumas explicações, por usar um ambiente diferente do usado em sala de aula, no caso utilizando S.O Linux e sem xamp, precisei fazer umas configurações manuais no vscode, pode ignorar a pasta .vscode (caso ela esteja no arquivo zip).
-
-- O projeto contém a pasta /lib contendo o driver do JDBC, tive que inseri-lá pois não utilizo ambiente com xamp.
-
-- O envio do projeto contém servlets, será necessário que o senhor compile-as pois há necessidade de mudar o arquivo Conexao.java para conter suas credenciais do banco e para evitar erros.
-
-- A função de adicionar imagem é meramente ilustrativa, ela só irá funcionar caso configure as permissões de acesso a pasta raiz do projeto.
