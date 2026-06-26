@@ -37,7 +37,7 @@ LivrariaWeb/
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - Catálogo público com listagem e busca de livros por título
 - Login e logout de administrador com controle de sessão
@@ -47,7 +47,7 @@ LivrariaWeb/
 
 ---
 
-## ⚙️ Pré-requisitos
+## Pré-requisitos
 
 - Java JDK 8 ou superior
 - Apache Tomcat 9
@@ -55,7 +55,7 @@ LivrariaWeb/
 
 ---
 
-## 🚀 Como rodar
+## Como rodar
 
 **1. Banco de dados**
 
@@ -112,7 +112,7 @@ Login padrão: **usuário** `administrador` / **senha** `livraria2026`
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 | Tecnologia | Uso |
 |---|---|
@@ -124,7 +124,7 @@ Login padrão: **usuário** `administrador` / **senha** `livraria2026`
 
 ---
 
-## 📝 Observações
+## Observações
 
 - O projeto **não usa Maven** — a compilação é feita manualmente com `javac`.
 - A função de upload de foto de capa requer permissão de escrita na pasta `fotos/` do servidor.
